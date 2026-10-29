@@ -1,10 +1,4 @@
-/**
- * Central Content Source for Gorle Balakrishna's Portfolio
- * All text, URLs, and metadata must live here. Never hard-code content in components.
- * 
- * NOTE FOR OWNER:
- * Placeholders needing real links or verification are marked with [PLACEHOLDER_NAME].
- */
+
 
 export const profile = {
   name: "Gorle Balakrishna",
